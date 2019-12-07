@@ -2,6 +2,8 @@
 
 <b>Participante:</b> Luís Campos
 
+OBS.: dentro de src/util estão os screenshots das telas criadas.
+
 <b>Configurando o projeto para rodar na máquina local</b>
 
 <b>Obs.:</b> Aplicação pronta para rodar tanto em <b>Android</b> quanto em <b>iOS</b>
